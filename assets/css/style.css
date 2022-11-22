@@ -1,3 +1,5 @@
+
+
 body {
     font-family: Arial;
     margin: 0;
@@ -8,9 +10,17 @@ body {
   }
 
   nav{
-    
+    display: flex; 
+    /* justify-content: center; */
+    justify-content: flex-end;
   }
-  
+   
+  button:hover{ 
+    border-radius: 8px;
+    background-color: #4CAF50;
+    color: white;
+    background-color: rgb(235, 220, 22); 
+  }
   header {
     padding: 40px;
     text-align: center;
