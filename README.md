@@ -1,17 +1,5 @@
-# Portfolio
--Nav Bar
-    Home
-    About
-    Services     
--Body
-    more about me
-        Website Development
-        Website Design
-        SEO
-        QA
-        DevOps
--Footer
-    Facebook link 
-    IG link
-    LI
-    Email
+Take this opportunity to create a page about yourself. 
+
+This is an opportunity to showcase yours kills and sell yourself to employers and potential customers. 
+
+**this page will be updated as the bootcamp progresses.
